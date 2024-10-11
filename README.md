@@ -7,6 +7,7 @@
 
 Contact me:
 
+- Pronouns: he/him
 - m "at" mcarr "dot" one
 - Here on GitHub for one of my projects
 - Ask for my discord!
