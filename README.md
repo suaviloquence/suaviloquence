@@ -12,11 +12,6 @@ Contact me:
 - Here on GitHub for one of my projects
 - Ask for my discord!
 
-<details>
-  <summary>old bio :cat:</summary>
+To motivate me to keep contributing:
 
-  ```c
-  assert(strcmp("-0.5" + 1, "0.5") == 0)
-  ```
-
-</details>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=suaviloquence&theme=nord&mode=weekly&card_width=128&card_height=128&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) 
