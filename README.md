@@ -11,7 +11,3 @@ Contact me:
 - Email: m "at" mcarr "dot" one
 - Here on GitHub for one of my projects.
 - Ask for my discord!
-
-To motivate me to keep contributing:
-
- [![GitHub Streak](https://streak-stats.demolab.com?user=suaviloquence&theme=nord&mode=weekly&card_width=128&card_height=128&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats) 
